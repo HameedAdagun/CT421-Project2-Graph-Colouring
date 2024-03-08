@@ -30,3 +30,6 @@ The aspect that I decided to explore was priotizes nodes with lower degrees. The
 it has. The idea behind this was that nodes with lower degrees are less likely to create another conflict with another 
 neighbor.
 
+# Experiments and Results
+The experiments and the results can be found in the jupyter notebook.
+
